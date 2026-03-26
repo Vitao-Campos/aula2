@@ -1,2 +1,1 @@
-#Exercicio de markdown e git.
-linha de texto que tem que ser em outra linha
+ - [ ] topico 1\n - [ ] topico 2 \n\n teste de linha
